@@ -1,0 +1,6 @@
+demo-app-sh (0.1.1) unstable; urgency=low
+
+  * Initial release  <develop@home.heaven>
+  * Creating debian package for sh project
+
+ -- Develop Team <develop@home.heaven>  Mon, 09 Jun 2025 07:45:46 +0800

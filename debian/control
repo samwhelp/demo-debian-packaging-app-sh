@@ -1,0 +1,22 @@
+Source: demo-app-sh
+Section: util
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ make,
+ debhelper (>= 10),
+Standards-Version: 4.7.2
+Homepage: https://github.com/samwhelp/demo-debian-packaging-app-sh
+Vcs-Browser: https://github.com/samwhelp/demo-debian-packaging-app-sh
+Vcs-Git: https://github.com/samwhelp/demo-debian-packaging-app-sh.git
+
+Package: demo-app-sh
+Architecture: all
+Depends:
+ ${misc:Depends},
+ pkexec,
+ yad,
+Recommends:
+ wget,
+Description: Demo sh App - demo app package
+ Creating debian package for sh project.

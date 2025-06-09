@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+
+exec /usr/share/demo-app-sh/demo.sh

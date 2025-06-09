@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=demo-app-sh
+Name=Demo-App
+Icon=tools
+Keywords=tool;tools;
