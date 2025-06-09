@@ -1,2 +1,4 @@
 build/
 debian/demo-app-sh*
+debian/debhelper-build-stamp
+debian/.debhelper
