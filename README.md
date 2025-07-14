@@ -1,6 +1,6 @@
 
 
-## Home
+# Home
 
 | Link | GitHub |
 | ---- | ------ |
@@ -15,6 +15,7 @@
 * [Debian Wiki](#debian-wiki)
 * [Debian Packaging / Tutorial](#debian-packaging--tutorial)
 * [Debian Packaging / Case](#debian-packaging--case)
+* [Debian Packaging / Demo](#debian-packaging--demo)
 * [Changelog](#changelog)
 
 
@@ -91,6 +92,15 @@ Contribute:
 ## Debian Packaging / Case
 
 * GitHub / Nitrux / [nitrux-base-files](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh)
+* GitHub / samwhelp / [deb-recipe](https://github.com/samwhelp/deb-recipe)
+* GitHub / samwhelp / [pacstall-packaging](https://github.com/samwhelp/pacstall-packaging)
+
+
+
+
+## Debian Packaging / Demo
+
+* GitHub / samwhelp / [demo-create-debian-package](https://github.com/samwhelp/demo-create-debian-package)
 
 
 
