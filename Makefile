@@ -2,9 +2,9 @@
 
 DESTDIR ?=
 PREFIX ?= /usr
-BINDIR := ${DESTDIR}$(PREFIX)/bin
-MANDIR := ${DESTDIR}$(PREFIX)/man
-SHAREDIR := ${DESTDIR}$(PREFIX)/share
+BINDIR := $(DESTDIR)$(PREFIX)/bin
+MANDIR := $(DESTDIR)$(PREFIX)/man
+SHAREDIR := $(DESTDIR)$(PREFIX)/share
 
 
 
@@ -31,7 +31,7 @@ help:
 	@echo
 	@echo '	$$ make deb-build'
 	@echo
-	@echo '	$$ make debsrc-build'
+	@echo '	$$ make srcdeb-build'
 	@echo
 .PHONY: help
 
@@ -129,6 +129,6 @@ deb-build:
 .PHONY: deb-build
 
 
-debsrc-build:
+srcdeb-build:
 	dpkg-buildpackage -uc -us -tc
-.PHONY: deb-build
+.PHONY: srcdeb-build
