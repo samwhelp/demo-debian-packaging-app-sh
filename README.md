@@ -20,6 +20,7 @@
 * [Debian Wiki](#debian-wiki)
 * [Debian Packaging / Tutorial](#debian-packaging--tutorial)
 * [Debian Packaging / Case](#debian-packaging--case)
+* [Debian Packaging / Demo](#debian-packaging--demo)
 * [Changelog](#changelog)
 
 
