@@ -96,6 +96,14 @@ Contribute:
 ## Debian Packaging / Case
 
 * GitHub / Nitrux / [nitrux-base-files](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh)
+* GitHub / samwhelp / [deb-recipe](https://github.com/samwhelp/deb-recipe)
+
+
+
+
+## Debian Packaging / Demo
+
+* GitHub / samwhelp / [demo-create-debian-package](https://github.com/samwhelp/demo-create-debian-package)
 
 
 
