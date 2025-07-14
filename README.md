@@ -98,6 +98,7 @@ Contribute:
 
 * GitHub / Nitrux / [nitrux-base-files](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh)
 * GitHub / samwhelp / [deb-recipe](https://github.com/samwhelp/deb-recipe)
+* GitHub / samwhelp / [pacstall-packaging](https://github.com/samwhelp/pacstall-packaging)
 
 
 
